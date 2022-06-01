@@ -1,4 +1,4 @@
-✨ Hi, I’m @npasqualetti.
+✨ Hi, I’m @npasqualetti. \n
 ✨ I’m interested in networking, systems, crypto, and python.
 ✨ I’m currently learning DevNet automation and Software DevOps.
 ✨ I’m looking to collaborate on network and systems automation engineering.
