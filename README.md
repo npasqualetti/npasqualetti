@@ -6,11 +6,9 @@ You can click the Preview link to take a look at your changes.
 # About Me
 ✨ Hi, I’m @npasqualetti.
 
-✨ I’m interested in networking, systems, crypto, and python.
+✨ I’m interested in coding, networking, automation, crypto, and machine learning.
 
 ✨ I’m currently learning DevNet automation and Software DevOps.
-
-✨ I’m looking to collaborate on network and systems automation engineering.
 
 ✨ Reach me at nicholaspasqualetti@gmail.com
 ## 1. GitHub Stats
