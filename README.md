@@ -13,7 +13,3 @@ You can click the Preview link to take a look at your changes.
 ✨ Reach me at nicholaspasqualetti@gmail.com
 ## 1. GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=npasqualetti&show_icons=true)
-## 2. Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=npasqualetti&theme=blue-green)
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=npasqualetti)
