@@ -4,11 +4,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # About Me
-✨ Hi, I’m @npasqualetti.
+✨ Hi, I’m @npasqualetti and I have 7 years of profesisonal experience in IT.
 
-✨ I’m interested in coding, networking, automation, crypto, and machine learning.
-
-✨ I’m currently learning DevNet automation and Software DevOps.
+✨ My primary focus is in coding, networking, automation, and crypto.
 
 ✨ Reach me at nicholaspasqualetti@gmail.com
 ## 1. GitHub Stats
