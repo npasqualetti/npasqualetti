@@ -4,9 +4,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # About Me
-✨ Hi, I’m @npasqualetti and I have 7 years of profesisonal experience in IT.
+✨ Hi, I’m @npasqualetti and I have 7 years of professional experience in Enterprise IT Solutions.
 
-✨ My primary focus is in coding, networking, automation, and crypto.
+✨ Full-Stack Engineer.
+
+✨ Skills: Django, Python, Automation, Cryptocurrencies, Cisco Technologies, Workflow Automation, Scripting.
 
 ✨ Reach me at nicholaspasqualetti@gmail.com
 ## 1. GitHub Stats
