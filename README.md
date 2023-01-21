@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 # About Me
 ✨ Hi, I’m @npasqualetti and I have 7 years of professional experience in Enterprise IT Solutions.
 
-✨ Full-Stack Engineer. Founding Engineer of [StockMVP](https://www.stock-mvp.com/ rel=noreferrer)
+✨ Full-Stack Engineer. Founding Engineer of [StockMVP](https://www.stock-mvp.com/){:target="_blank"}
 
 ✨ Skills: Django, Python, Automation, Cryptocurrencies, Cisco Technologies, Workflow Automation, Scripting.
 
