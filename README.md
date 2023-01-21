@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 ✨ Skills: Django, Python, Automation, Cisco Technologies, Workflow Automation.
 
-✨ Implementation Services: Stripe Payments, 
+✨ Implementation Services:  Website Development, API Development, Stripe Payments, Cisco Switches / Routers, VMWare, VEEAM Backups.
 
 ✨ Reach me at nicholaspasqualetti@gmail.com
 
