@@ -8,8 +8,15 @@ You can click the Preview link to take a look at your changes.
 
 ✨ Founding Engineer at <a href="https://www.stock-mvp.com" target="_blank" rel="noreferrer">StockMVP</a>
 
-✨ Skills: Django, Python, Automation, Cryptocurrencies, Cisco Technologies, Workflow Automation, Scripting.
+✨ Previous Work & Contracts: Food & Drug Administration (FDA), Frost Brown Todd, Leadec Corp.
+
+✨ Skills: Django, Python, Automation, Cisco Technologies, Workflow Automation.
+
+✨ Implementation Services: Stripe Payments, 
 
 ✨ Reach me at nicholaspasqualetti@gmail.com
+
+<a href="https://www.linkedin.com/in/nicholaspasqualetti/" target="_blank" rel="noreferrer">LinkedIn</a>
+
 ## 1. GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=npasqualetti&show_icons=true)
