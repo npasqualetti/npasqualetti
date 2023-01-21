@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 ✨ Implementation Services:  Website Development, API Development, Stripe Payments, Cisco Switches / Routers, VMWare, Backup Solutions.
 
-✨ Reach me at nicholaspasqualetti@gmail.com <a href="https://www.linkedin.com/in/nicholaspasqualetti/" target="_blank" rel="noreferrer">LinkedIn</a>
+✨ Reach me at nicholaspasqualetti@gmail.com or <a href="https://www.linkedin.com/in/nicholaspasqualetti/" target="_blank" rel="noreferrer">LinkedIn</a>
 
 ## 1. GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=npasqualetti&show_icons=true)
