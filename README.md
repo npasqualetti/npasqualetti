@@ -11,6 +11,6 @@ I live in Cincinnati, OH. I like traveling, good food, being outside, and coding
 
 ### My Favorite Project
 * <a href="https://www.stock-mvp.com">StockMVP</a> - Save Time Researching and Reading Stock Financials
-* <a href="https://www.autoupload.io>Autoupload.io</a> - Schedule and Automate Uploads for Short Form Video Content
+* <a href="https://www.autoupload.io>Autoupload.io"></a> - Schedule and Automate Uploads for Short Form Video Content
 
 ![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=npasqualetti&show_icons=true&theme=dark)
