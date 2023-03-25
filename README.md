@@ -9,7 +9,7 @@ I live in Cincinnati, OH. I like traveling, good food, being outside, and coding
 ...and many others
 
 
-### My Favorite Project
+### My Projects
 * <a href="https://www.stock-mvp.com">StockMVP</a> - Save Time Researching and Reading Stock Financials
 * <a href="https://www.autoupload.io">Autoupload.io</a> - Schedule and Automate Uploads for Short Form Video Content
 
