@@ -8,7 +8,7 @@ I like traveling, good food, being outside, and coding. Founding Engineer @ Stoc
 React, Django, Next.js, Cisco, VMware, and many others
 
 
-### My Projects
+### My Project
 * <a href="https://www.stock-mvp.com">StockMVP</a> - Save Time Researching and Reading Stock Financials
 
 ![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=npasqualetti&show_icons=true&theme=dark)
