@@ -10,5 +10,6 @@ React, Django, Next.js, Cisco, VMware, and many others
 
 ### My Project
 * <a href="https://www.stock-mvp.com">StockMVP</a> - Save Time Researching and Reading Stock Financials
+* <a href="https://www.npasqualetti.dev">AutoBlogger</a> - 100% Hands-off AutoBlogger Powered by NextJS SSR & ChatGPT
 
 ![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=npasqualetti&show_icons=true&theme=dark)
