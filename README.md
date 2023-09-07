@@ -1,6 +1,5 @@
-## Hey, I'm Nick. 
-Founding Engineer at [StockMVP](https://www.stock-mvp.com/).
-===========================================================================================
+# Hey, I'm Nick. 
+## Founding Engineer at [StockMVP](https://www.stock-mvp.com/).
 ### Skills
 
 
