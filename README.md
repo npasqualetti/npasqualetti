@@ -1,4 +1,4 @@
-## Founding Engineer at [StockMVP](https://www.stock-mvp.com/).
+## Founding Engineer at StockMVP.
 
 ### Skills 
 
