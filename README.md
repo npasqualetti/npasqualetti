@@ -1,5 +1,3 @@
-## Founding Engineer at StockMVP.
-
 ### Skills 
 
 <p align="left">
